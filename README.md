@@ -3,8 +3,8 @@ Data Science Portfolio
 
 # Project 1 Pasajob Employment Referral Value Predictor
     PasaJob is a long-chain referral-based job platform that rewards individuals for connecting employers with the right candidates. 
-    A team of 5 was tasked to collect and scrape data from top online job search platforms and utilize the collected data in developing 
-    a machine learning models that can predict referral value of an open position. 
+    A team of 5 was tasked to collect and scrape data from top online job search platforms and utilize the collected data in 
+    developing a machine learning models that can predict referral value of an open position. 
 
 # Project 2 SeeYouDoc Customer Segmentation
      Based on the company's customer data, the team used unsupervised machine learning model to segmentize patients and predict their 
