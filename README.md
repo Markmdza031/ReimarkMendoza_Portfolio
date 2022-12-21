@@ -1,7 +1,7 @@
 # ReimarkMendoza_Portfolio
 Data Science Portfolio
      
-# Personal Python Projects: 
+# Personal Python Projects
 
 Travel Itinerary Generator
 
@@ -15,7 +15,7 @@ Power Plant Linear Regression Analysis
     one weather sensor readings. The task is to find relationships among the data features and give recommendations and inferences
     that would solve the business problem.
     
-# Internship Data Science Projects
+# Internship Data Science Projects (Private) 
 
 Pasajob Employment Referral Value Predictor
 
