@@ -12,9 +12,9 @@ Data Science Portfolio
     
 [Power Plant Linear Regression Analysis](https://drive.google.com/file/d/1j4ibS6AtqYu1164if_ArRUbLf8VLV_8b/view?usp=share_link)
 
-    A dataset was provided containing information collected on two solar plants over 34 days. Each pair has one power generation dataset 
-    and one weather sensor readings. The task is to find relationships among the data features and give recommendations and inferences
-    that would solve the business problem.
+    A dataset was provided containing information collected on two solar plants over 34 days. Each pair has one power generation 
+    dataset and one weather sensor readings. The task is to find relationships among the data features and give recommendations 
+    and inferences that would solve the business problem.
     
 # Internship Data Science Projects (Private) 
 
