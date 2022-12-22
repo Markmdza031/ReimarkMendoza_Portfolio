@@ -3,12 +3,14 @@ Data Science Portfolio
      
 # Personal Python Projects
 
-[Travel Itinerary Generator](https://drive.google.com/file/d/1j4ibS6AtqYu1164if_ArRUbLf8VLV_8b/view?usp=share_link)
+[Travel Itinerary Generator](https://drive.google.com/file/d/1MtSX4FZmLpY7_vDZp0gG_8udwjtkJpix/view?usp=sharing)
 
     In collaboration with a team of 4, a machine learning model prototype  was developed with the use of Natural Language Processing 
     and Network Analysis that returns a recommended travel itinerary based on a keyword input.  
     
-Power Plant Linear Regression Analysis
+    Demo: https://youtu.be/vn1t1WypMTA
+    
+[Power Plant Linear Regression Analysis](https://drive.google.com/file/d/1j4ibS6AtqYu1164if_ArRUbLf8VLV_8b/view?usp=share_link)
 
     A project task was given to our program Data Management and Analytics Program in Bow Valley College, Alberta, Canada. A dataset 
     was provided containing information collected on two solar plants over 34 days. Each pair has one power generation dataset and 
