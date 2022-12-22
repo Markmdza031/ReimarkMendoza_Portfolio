@@ -3,7 +3,7 @@ Data Science Portfolio
      
 # Personal Python Projects
 
-Travel Itinerary Generator
+[Travel Itinerary Generator](https://drive.google.com/file/d/1j4ibS6AtqYu1164if_ArRUbLf8VLV_8b/view?usp=share_link)
 
     In collaboration with a team of 4, a machine learning model prototype  was developed with the use of Natural Language Processing 
     and Network Analysis that returns a recommended travel itinerary based on a keyword input.  
