@@ -8,7 +8,7 @@ Data Science Portfolio
     In collaboration with a team of 4, a machine learning model prototype  was developed with the use of Natural Language Processing 
     and Network Analysis that returns a recommended travel itinerary based on a keyword input.  
     
-    [DEMO](https://www.youtube.com/watch?v=vn1t1WypMTA)
+    Demo: [https://www.youtube.com/watch?v=vn1t1WypMTA](https://www.youtube.com/watch?v=vn1t1WypMTA)
     
 [Power Plant Linear Regression Analysis](https://drive.google.com/file/d/1j4ibS6AtqYu1164if_ArRUbLf8VLV_8b/view?usp=share_link)
 
